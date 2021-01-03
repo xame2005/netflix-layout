@@ -1,0 +1,14 @@
+body {
+    background: black;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+.navigation-item {
+    list-style: none;
+}
